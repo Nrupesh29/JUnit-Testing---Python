@@ -1,11 +1,11 @@
 import unittest
-from hw1 import *
+from part1 import *
 
 
 class TestFnTester(unittest.TestCase):
 
     """
-    Test Cases for correct_test_format() function from HW1
+    Test Cases for correct_test_format() function from PART1
     """
     def test_correct_format_for_test_case(self):
         """
@@ -39,7 +39,7 @@ class TestFnTester(unittest.TestCase):
 
 
     """
-    Test Cases for correct_suite_format() function from HW1
+    Test Cases for correct_suite_format() function from PART1
     """
     def test_correct_format_for_test_suite(self):
         """
@@ -61,7 +61,7 @@ class TestFnTester(unittest.TestCase):
 
 
     """
-    Test Cases for run_test() function from HW1
+    Test Cases for run_test() function from PART1
     """
     def test_correct_format_and_valid_return_value(self):
         """
@@ -89,7 +89,7 @@ class TestFnTester(unittest.TestCase):
     
 
     """
-    Test Cases for run_suite() function from HW1
+    Test Cases for run_suite() function from PART1
     """
     def test_correct_format_and_pass_not_equal_to_fail(self):
         """
