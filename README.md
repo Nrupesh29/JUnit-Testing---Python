@@ -1,4 +1,4 @@
-# JUnit-Testing-Python
+# Unit-Testing-Python
 
 ### Part I
 
